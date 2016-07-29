@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author selvy_000
+ * @author selvy_0001
  */
 public class TimeAndDateHandlerTest
 {
